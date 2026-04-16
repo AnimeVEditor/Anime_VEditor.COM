@@ -1,0 +1,73 @@
+```
+# Unity specific
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+*.unityproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.app
+*.exe
+*.dll
+*.pdb
+*.mdb
+*.pidb.meta
+*.prefab
+*.prefab.meta
+*.asset
+*.asset.meta
+*.meta
+!*.cs.meta
+!*.js.meta
+!*.boo.meta
+*.log
+[Ll]ocal [Ss]ettings.asset
+[Ll]ocal [Ss]ettings.asset.meta
+osx_build/
+UnityLockFile
+.DS_Store
+Thumbs.db
+.vs/
+.vscode/
+
+# Build artifacts
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+*.dll
+*.so
+*.dylib
+*.bundle
+
+# Environment
+.env
+.env.local
+*.env.*
+
+# Dependencies
+Packages/
+node_modules/
+.unity3d/
+.unitypackage/
+
+# Logs
+*.log
+crashlytics-build.properties
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+```
